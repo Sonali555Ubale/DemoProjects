@@ -19,7 +19,7 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 <div align="center">
-    <img src="Title.jpg">
+    <img src="Title.jpg" alt="Time Prison">
 </div>
 
 <!-- PROJECT LOGO -->
@@ -49,8 +49,7 @@
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
+       </ul>
     </li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
@@ -62,11 +61,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-The gameplay of Time Prison is based on trial and error, where the player needs to fail multiple times to understand the twisted physics and escape the labyrinth. The game has three checkpoints, and the obstacles have been designed to deceive the player based on their prior knowledge of 2D platformers. The obstacles are placed in such a way that the difficulty level increases as the player progresses, and they are challenged throughout the course of the game.
 
-The level design of Time Prison is made in a way to teach the players something they can use in the next try. The obstacles have been designed to surprise and possibly frustrate the player. Each obstacle is designed in such a way that the player is deceived by looking at the obstacle, even though they have surpassed a few obstacles. The obstacles have been placed in a way that the player's knowledge of the previous obstacle is taken into consideration, and they are deceived based on that knowledge. The level design is meant to increase the difficulty level as the player progresses and provide a challenging experience.
-
-Project Goal: The goal of Time Prison is to create a 2D mystical platformer game with deceptive physics and challenging obstacles. The game is designed to provide a fun and engaging experience to the players and increase the difficulty level as the player progresses.
+Time Prison is a 2D platformer game that challenges the players to use trial and error to escape the labyrinth. Players must navigate through a treacherous set of obstacles with deceptive physics while learning from their mistakes and repeating their attempts in order to progress. It contains three checkpoints, with each one gradually increasing in difficulty as the player puzzles their way through the game. Players must use their knowledge and understanding of the levels to outsmart the obstacles and eventually escape the Time Prison.
 
 ### Built With
 
@@ -78,16 +74,7 @@ Major frameworks/libraries used to bootstrap the project.
 
 * Windows 10+
 * Unity 2021+
-
-
-### Installation
-
-1. Clone the repo
-
-2. Open Project in Unity
-
-3. Play the Project inside Unity or Make a Build
-
+* 
 <!-- CONTACT -->
 ## Contact
 
