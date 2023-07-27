@@ -30,7 +30,7 @@
     A 2D mystical platformer where players are trying to escape a labyrinth. The game's physics are intentionally deceptive, requiring players to fail and learn from their mistakes to progress through the levels. The level design focuses on teaching players through frustration, with obstacles designed to deceive and surprise players with increasing difficulty.
     <br />
     <div align="center">
-    <a href="https://www.youtube.com/embed/v66KK5Khpic" target="_blank">Trailer</a>
+    <a href="https://youtu.be/KuBHnnQDwlc" target="_blank">Trailer</a>
     </div>
   </p>
 </div>
@@ -91,15 +91,14 @@ Major frameworks/libraries used to bootstrap the project.
 <!-- CONTACT -->
 ## Contact
 
-* Kalpan Agrawal - agrawal.k@northeastern.edu
+* Sonali Haribhau Ubale - sonaliubale555@gmail.com
 * [![LinkedIn][linkedin-shield]][linkedin-url]
 * [![Portfolio][portfolioIcon-url]][portfolio-url]
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/kp-ag/
-[portfolioIcon-url]: https://img.shields.io/badge/-Portfolio-brightgreen
-[portfolio-url]: https://kalpan-ag.github.io/
-
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=512
+[linkedin-url]: https://www.linkedin.com/in/sonaliubale/
+[portfolioIcon-url]: https://img.shields.io/badge/-Portfolio-skyblue
+[portfolio-url]: https://sonaliubale555.wixsite.com/portfolio
 
